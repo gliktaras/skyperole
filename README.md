@@ -8,7 +8,7 @@ Building and Installing
 Build requirements: X11 libraries (i.e. xorg), GNU make, gcc.
 
 Build procedure:
-  
+
     git clone git@github.com:gliktaras/skyperole.git skyperole
     cd skyperole
     make
@@ -25,16 +25,16 @@ Set Window Rules
 ----------------
 skyperole makes the following window role assignments:
 
-Skype window                 | Window role
+**Skype window**             | **Window role**
 ---------------------------- | -----------------
 Add contact dialog           | skype-add-contact
 Add to chat dialog           | skype-add-to-chat
-Chat window                  | skype-chat       
-Options                      | skype-options    
-Sign in window               | skype-sign-in    
-Start conference call dialog | skype-conf-call  
-The contact list             | skype-main       
-User profile                 | skype-profile    
+Chat window                  | skype-chat
+Options                      | skype-options
+Sign in window               | skype-sign-in
+Start conference call dialog | skype-conf-call
+The contact list             | skype-main
+User profile                 | skype-profile
 
 
 Skype Version Compatibility
